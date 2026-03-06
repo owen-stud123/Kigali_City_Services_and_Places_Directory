@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813200800580",
+    "project_id": "kigali-city-services-dir-1dff9",
+    "storage_bucket": "kigali-city-services-dir-1dff9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813200800580:android:ae7c27ea8ae71975b2b511",
+        "android_client_info": {
+          "package_name": "com.example.kigali_city_directory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvbeOfWzu7kyKyvjycwnx4hOJLsYaeS7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
